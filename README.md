@@ -17,6 +17,6 @@ Ao digitar o nome (ou uma parte do nome) ele retorna a busca com todos os result
 ![Captura de tela 2023-04-02 213744](https://user-images.githubusercontent.com/109630661/229388405-b1935315-406b-4c83-a042-5646eef03dc0.png)
 ![Captura de tela 2023-04-02 213753](https://user-images.githubusercontent.com/109630661/229388407-0d872a1b-9dad-478a-b96a-4018267a4ff0.png)
 
-Obs: ele busca por nome, não por bairro, no caso eu pesquisei qual tinha "Copacabana" no nome, existem outras UBS em Copacabana, porém não possuem a palavra "Copacabana" no nome, para saber quais ficam em copacabana, use o primeiro mapa gerado pelo folium, que exibe todas as UBS da UF escolhida
+Obs: ele busca por nome, não por bairro, no caso eu pesquisei qual tinha "Copacabana" no nome, existem outras UBS em Copacabana, porém não possuem a palavra "Copacabana" no nome, para saber quais ficam em Copacabana, use o primeiro mapa gerado pelo folium, que exibe todas as UBS da UF escolhida
 
 Coloquei 2 arquivos de .html de teste, usando dados do RJ. Porém ele funciona para todas as UF do país.
