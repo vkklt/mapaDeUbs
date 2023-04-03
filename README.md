@@ -1,6 +1,6 @@
 # Mapa De UBS
 
-Buscador de todas as UBS do país. Busca e retorna o nome e o endereço pesquisados, além de gerar um mapa interativo com todas as UBS do estado, e um mapa interativo com a localização da UBS pesquisada.
+Buscador de todas as UBS do país. Busca e retorna o nome e o endereço pesquisados, além de gerar um mapa interativo com todas as UBS do estado, e um mapa interativo com a localização da(s) UBS(s) pesquisada(s).
 
 ![Captura de tela 2023-04-02 213707](https://user-images.githubusercontent.com/109630661/229388333-07eb3d66-4b44-49a5-b1d1-68d88fac496c.png)
 
